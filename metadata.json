@@ -1,0 +1,6 @@
+{
+  "name": "Rajbhasha Portal - Zonal Office Patna",
+  "description": "Official Rajbhasha portal for monthly/quarterly reporting, official language resources, document upload to Google Drive, and dynamic background management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
